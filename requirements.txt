@@ -1,2 +1,2 @@
-Pillow==7.1.1
+Pillow==8.2.0
 pyscard==1.9.9
